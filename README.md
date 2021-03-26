@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wonyeaweat
 - 👀 I’m interested in games.
-- 🌱 I’m currently learning Unreal Engine 4.
+- 🌱 I’m currently learning lua.
 - 💞️ I’m looking to collaborate on Netease.
 - 📫 Email: wonyeaweat@ 163/gmail/foxmail .com
 
