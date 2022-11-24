@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wonyeaweat
 - 👀 I’m interested in Game/Game Development.
-- 🌱 I’m currently learning lua.
+- 🌱 I’m currently learning Computer Graphics.
 - 💞️ I’m employed in Netease.
 - 📫 Email: wonyeaweat@ 163/gmail/foxmail .com
 
